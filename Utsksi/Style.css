@@ -37,11 +37,14 @@ label{
 
 input{
     width: 100%;
-    padding: 12px;
+    padding: 18px ;
     border: 1px solid #ccc;
     border-radius: 8px;
     margin-bottom: 20px;
     font-size: 15px;
+    height: 120px;
+    box-sizing: border-box;
+    vertical-align: top;
 }
 
 input:focus{
